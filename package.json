@@ -1,0 +1,8 @@
+{
+  "name": "@jsduniya/react-workspace",
+  "private":true,
+  "workspaces":[
+    "apps/*"
+  ]
+
+}
